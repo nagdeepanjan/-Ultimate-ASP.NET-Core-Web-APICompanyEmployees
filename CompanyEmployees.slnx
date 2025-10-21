@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="CompanyEmployees/CompanyEmployees.csproj" />
   <Project Path="Contracts/Contracts.csproj" Id="570e3f62-12c5-459f-9d44-c069e2a8b5f1" />
+  <Project Path="Entities/Entities.csproj" Id="daac718e-51dd-4a14-8392-d499a1ba4a25" />
   <Project Path="LoggerService/LoggerService.csproj" Id="a6806dcb-4d86-4bff-bd2d-f170627da086" />
 </Solution>
